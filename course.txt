@@ -1,3 +1,6 @@
 aws
 devops
 gcp
+powe BI
+python
+java
